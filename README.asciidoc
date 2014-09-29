@@ -1,0 +1,11 @@
+= lib-src
+
+Shows libraries/packages' source code URLs.
+
+== USAGE
+
+	lib-src [--source|--homepage|--bugtracker] (gem|npm|cpan) <library name>
+
+== AUTHOR
+
+motemen <motemen@gmail.com>
